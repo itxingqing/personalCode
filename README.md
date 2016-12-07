@@ -5,3 +5,4 @@
 # login aras.cs ARAS 登入API
 # test ActionAccessPart.js 在My Part数据表格中，右键某一条记录之后，可以获取到选中的多条记录，然后处理选中的记录后，并且重新执行查询
 # 在Server Method中增加class类，来讲业务逻辑进行封装处理，其中有相应的语法；并且可以将自己写的类库.DLL文件，放入到aras的平台下，进行调用。具体见文  件Using Classes inside Server Methods.java
+# 可以指定窗口打开时，拆分窗口的高度，自定义，具体见文件 拆开窗口固定大小.docx
