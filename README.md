@@ -10,3 +10,4 @@
 # 可以将字典数据作为另一个对象的窗体的一个下拉列表框，进行选择信息，见文档ItemType List 字典数据作为下拉框.docx
 # 可以根据窗体中，输入的值，来动态的进行权限的设定，具体见文档Permissions Based on Item Property Values.docx
 # 通过Server Method进行动态的给用户，赋予临时的参与者，可以临时拥有相应的权限，具体见文件：通过服务器端方法动态临时的给用户授与参与者.docx
+# 自定义创建对象类的 Keyed Names，通过Server Method以及GetKeyedName服务器事件，来定义Keyed Names为自定义的内容,具体见：自定义对象类的Keyed Names.docx
