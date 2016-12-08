@@ -11,3 +11,4 @@
 # 可以根据窗体中，输入的值，来动态的进行权限的设定，具体见文档Permissions Based on Item Property Values.docx
 # 通过Server Method进行动态的给用户，赋予临时的参与者，可以临时拥有相应的权限，具体见文件：通过服务器端方法动态临时的给用户授与参与者.docx
 # 自定义创建对象类的 Keyed Names，通过Server Method以及GetKeyedName服务器事件，来定义Keyed Names为自定义的内容,具体见：自定义对象类的Keyed Names.docx
+# 传递服务器事件的参数，这个功能主要用于以下三点：1、Item Versioning：在一个item被版本化之前，保存已经存在的属性数据；当这个版本要被提交保存到数据库时，可以比对值。2、Item Deletion：在一个对象被删除之前，请求属性数据；以及在一个对象被删除后，在子程序操作中可以使用保存的值。3、Related Items：Obtaining the property values of a parent Item that are used when a new relationship is added to the parent Item。具体见文件 How to Pass Server Event Parameters.docx
